@@ -115,6 +115,12 @@ addProject({
   ,icon:'bi-globe2',
   link:'https://atoms19.github.io/code-sl-backup-/pdf%20clone/'
 },"#archive")
+addProject({
+name:'time-piece',
+intro:'a functioning timer & stopwatch ',
+icon:'bi-globe2',
+link:'https://atoms19.github.io/code-sl-backup-/stopwatch'
+},'#archive')
 
 addProject({
   name:'Toast js',
