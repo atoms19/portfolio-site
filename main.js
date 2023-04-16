@@ -126,7 +126,7 @@ addProject({
   name:'Toast js',
   intro:'a js library for toast alerts',
   icon:'bi-globe2'
-  ,link:'https://arnav.is-a.dev/slcodepreview/?q=Wnupy3zOdLgP&nav=0'
+  ,link:'https://atoms19.github.io/toast'
 },'#archive')
 
 //social
