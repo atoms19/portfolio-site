@@ -96,10 +96,10 @@ addProject({
 //archives
 
 addProject({
-  name:'browser ui',
+  name:'browser homepage',
   icon:'bi-globe2',
-  intro:'ui design',
-  link:'https://atoms19.github.io/code-sl-backup-/browser%20ui/'
+  intro:'a functional homepage design browsers',
+  link:'https://atoms19.github.io/brogser/home'
 },"#archive")
 
 addProject({
