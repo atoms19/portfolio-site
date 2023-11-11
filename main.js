@@ -123,6 +123,13 @@ link:'https://atoms19.github.io/code-sl-backup-/stopwatch'
 },'#archive')
 
 addProject({
+  name:'aw-flashcards',
+  intro:'store flashcards for memorising',
+  icon:'bi-globe2',
+  link:'https://aw-flashcards.vercel.app'
+},'#archive')
+
+addProject({
   name:'Toast js',
   intro:'a js library for toast alerts',
   icon:'bi-globe2'
