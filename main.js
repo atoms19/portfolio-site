@@ -91,6 +91,11 @@ addProject({
   intro:'css reset and typography setup',
   link:'https://github.com/atoms19/aw-assets/tree/main/miniscule'
 })
+addProject({
+  name:'gojo tv'
+  ,intro:'a website watch anime free of ads',
+  link:'https://github.com/atoms19/anilook'
+})
 
 
 //archives
