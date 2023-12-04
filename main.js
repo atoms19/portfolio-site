@@ -213,7 +213,14 @@ addProject({
   link:'https://www.canva.com/design/DAFTyx0JG0E/it8A4S9k0RtWMlgoGZKuKg/edit?utm_content=DAFTyx0JG0E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
 },"#careers")
 
-for(i=1;i<5;i++){
+addProject({
+  name:'brogser tech feat ppt',
+  intro:'brogser intro',
+  icon:'bi-easel',
+  link:'https://www.canva.com/design/DAF1-SejFUE/669Zpimf0_vABc07RGbtQw/edit?utm_content=DAF1-SejFUE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttonium=link2&utm_source=sharebutton'
+},"#careers")
+
+for(i=1;i<4;i++){
   addProject({
     name:'project '+String(i),
     icon:'bi-briefcase'
