@@ -217,7 +217,7 @@ addProject({
   name:'brogser tech feat ppt',
   intro:'brogser intro',
   icon:'bi-easel',
-  link:'https://www.canva.com/design/DAF1-SejFUE/669Zpimf0_vABc07RGbtQw/edit?utm_content=DAF1-SejFUE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebuttonium=link2&utm_source=sharebutton'
+  link:'https://www.canva.com/design/DAF2e-ZR7io/zNVYBmuPy20Vb5HqHzwnrg/edit?utm_content=DAF2e-ZR7io&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton'
 },"#careers")
 
 for(i=1;i<4;i++){
